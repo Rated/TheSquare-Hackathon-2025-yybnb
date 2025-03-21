@@ -6,9 +6,9 @@ The goal is to develop a functional and innovative web application. Whether you'
 
 ## Hackathon Details
 
-- **Start Date**: 30-Mar-2025*
-- **End Date**: 31-Mar-2025*
-- **Deadline for Pull Requests**: 31-Mar-2025*
+- **Start Date**: 22-Mar-2025*
+- **End Date**: 23-Mar-2025*
+- **Deadline for Pull Requests**: 23-Mar-2025*
 - **Project Repo Link**: 
 ```bash
 https://github.com/Rated/TheSquare-Hackathon-2025
