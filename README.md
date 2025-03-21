@@ -113,7 +113,7 @@ Each application should have its own **pull request**. Ensure that both reposito
 
 ## Deadline
 
-The **deadline for submitting pull requests** is **09-Mar-2025**. After this time, the repository will be locked, and no more pull requests will be accepted.
+The **deadline for submitting pull requests** is **23-Mar-2025**. After this time, the repository will be locked, and no more pull requests will be accepted.
 
 ## Contact Us
 
